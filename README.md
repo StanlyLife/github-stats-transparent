@@ -1,4 +1,4 @@
-# GitHub Stats Visualizations : Transparent
+# GitHub Stats Visualizations : Transparent 
 > Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
 
